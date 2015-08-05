@@ -45,7 +45,7 @@ aside.blog-sidebar h5 {
 
 /* line 32, ../scss/master/_blog.scss */
 aside.blog-sidebar h5, .related-posts h5 {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 1.125rem;
@@ -57,7 +57,7 @@ aside.blog-sidebar h5, .related-posts h5 {
 
 /* line 43, ../scss/master/_blog.scss */
 aside.blog-sidebar li, aside.blog-sidebar p {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -98,7 +98,7 @@ article {
 
 /* line 77, ../scss/master/_blog.scss */
 article h1, h1.archive-title {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 1.625rem;
@@ -109,7 +109,7 @@ article h1, h1.archive-title {
 
 /* line 87, ../scss/master/_blog.scss */
 article h6.date {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 0.875rem;
@@ -121,7 +121,7 @@ article h6.date {
 
 /* line 98, ../scss/master/_blog.scss */
 article p, article li {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-size: 0.875rem;
   line-height: 1.6;
 }
@@ -135,7 +135,7 @@ article p a {
 
 /* line 108, ../scss/master/_blog.scss */
 article p.byline {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 0.875rem;
@@ -165,7 +165,7 @@ article .caption {
 
 /* line 135, ../scss/master/_blog.scss */
 div div div article h2 {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 1.3125rem;
@@ -202,7 +202,7 @@ div div div article h3 {
 .related-posts ul li {
   margin-left: 0;
   line-height: 1.8;
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -245,7 +245,7 @@ h1.archive-title {
 
 /* line 199, ../scss/master/_blog.scss */
 .archive-item h2 {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 1rem;
@@ -257,7 +257,7 @@ h1.archive-title {
 
 /* line 210, ../scss/master/_blog.scss */
 .archive-item h6.date {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 0.875rem;
@@ -275,7 +275,7 @@ h1.archive-title {
 
 /* line 226, ../scss/master/_blog.scss */
 .pagination-custom p span {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -367,7 +367,7 @@ div.lined-list ul {
 
 /* line 97, ../scss/_custom.scss */
 .lined-list li {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: inherit;
@@ -383,7 +383,7 @@ div.lined-list ul {
 
 /* line 112, ../scss/_custom.scss */
 .lined-list li strong {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: inherit;
@@ -451,7 +451,7 @@ div h1, div h2, div h3, div h4, div h5, div h6 {
 
 /* line 171, ../scss/_custom.scss */
 div div h2 {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 1.5rem;
@@ -462,7 +462,7 @@ div div h2 {
 
 /* line 181, ../scss/_custom.scss */
 div div h3 {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 1.125rem;
@@ -533,7 +533,7 @@ header div.logo {
 
 /* line 245, ../scss/_custom.scss */
 div div header h1 {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 1.875rem;
@@ -553,7 +553,7 @@ div div header h1 a {
 
 /* line 263, ../scss/_custom.scss */
 div div header h2 {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 0.75rem;
@@ -600,7 +600,7 @@ nav ul.inline-list-custom {
 
 /* line 305, ../scss/_custom.scss */
 nav ul.inline-list-custom li {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -669,7 +669,7 @@ Project
 
 /* line 369, ../scss/_custom.scss */
 .thumbnail-caption {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 0.875rem;
@@ -712,7 +712,7 @@ hr.project-detail-hr {
 /* line 403, ../scss/_custom.scss */
 .project-img h6 {
   padding-top: 1em;
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 0.875rem;
@@ -776,7 +776,7 @@ footer ul {
 
 /* line 462, ../scss/_custom.scss */
 footer li {
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 0.875rem;
@@ -920,7 +920,7 @@ body {
   color: #333d41;
   padding: 0;
   margin: 0;
-  font-family: "Bookman Old Style", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1;
