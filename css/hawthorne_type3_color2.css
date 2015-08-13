@@ -92,7 +92,7 @@ aside.blog-sidebar ul li a, aside.blog-sidebar ul li a:hover, aside.blog-sidebar
 
 /* line 71, ../scss/master/_blog.scss */
 article {
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #ffffff;
   padding-bottom: 1.25em;
   margin-bottom: 2.5em;
 }
@@ -162,7 +162,7 @@ article .caption {
 
 /* line 128, ../scss/master/_blog.scss */
 .comments {
-  border-top: 1px solid #333333;
+  border-top: 1px solid #ffffff;
   margin-top: 3em;
   padding-top: 3em;
   padding-bottom: 1em;
@@ -351,7 +351,7 @@ p a, li a, .thumbnail-caption a {
   -webkit-transition: color 0.2s ease-out;
   -moz-transition: color 0.2s ease-out;
   transition: color 0.2s ease-out;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #ffffff;
   padding-bottom: 1px;
 }
 
@@ -381,7 +381,7 @@ div.lined-list ul {
   letter-spacing: 0;
   text-transform: none;
   list-style-type: none;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #ffffff;
   padding-top: 0.8em;
   padding-bottom: 0.8em;
   margin-left: 0;
@@ -400,7 +400,7 @@ div.lined-list ul {
 
 /* line 122, ../scss/_custom.scss */
 .lined-list li:first-child {
-  border-top: 1px solid #333333;
+  border-top: 1px solid #ffffff;
 }
 
 /* line 126, ../scss/_custom.scss */
@@ -432,7 +432,7 @@ ol li {
 
 /* line 150, ../scss/_custom.scss */
 .row blockquote {
-  border-left: 1px solid #333333;
+  border-left: 1px solid #ffffff;
 }
 
 /* line 154, ../scss/_custom.scss */
@@ -590,8 +590,8 @@ div div header h2 a:hover, header h2 a:focus {
 
 /* line 291, ../scss/_custom.scss */
 nav {
-  border-top: 1px solid #333333;
-  border-bottom: 1px solid #333333;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
   margin-bottom: 3em;
   background-color: #fbfdfe;
 }
@@ -767,7 +767,7 @@ Footer
 ==================================================================================================*/
 /* line 449, ../scss/_custom.scss */
 footer {
-  border-top: 1px solid #333333;
+  border-top: 1px solid #ffffff;
   margin-top: 3em;
   padding-top: 4em;
   padding-bottom: 5em;
@@ -2028,7 +2028,7 @@ span.prefix, label.prefix {
   background: #f2f2f2;
   border-color: #d9d9d9;
   border-right: none;
-  color: #333333;
+  color: #ffffff;
 }
 /* line 356, ../bower_components/foundation/scss/foundation/components/_forms.scss */
 span.prefix.radius, label.prefix.radius {
@@ -2047,7 +2047,7 @@ span.postfix, label.postfix {
   background: #f2f2f2;
   border-color: #cccccc;
   border-left: none;
-  color: #333333;
+  color: #ffffff;
 }
 /* line 359, ../bower_components/foundation/scss/foundation/components/_forms.scss */
 span.postfix.radius, label.postfix.radius {
@@ -4422,7 +4422,7 @@ h6 {
 
 /* line 208, ../bower_components/foundation/scss/foundation/components/_type.scss */
 hr {
-  border: solid #333333;
+  border: solid #ffffff;
   border-width: 1px 0 0;
   clear: both;
   margin: 1.25rem 0 1.1875rem;
@@ -4761,7 +4761,7 @@ meta.foundation-mq-topbar {
 /* line 86, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .contain-to-grid {
   width: 100%;
-  background: #333333;
+  background: #ffffff;
 }
 /* line 90, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .contain-to-grid .top-bar {
@@ -4801,7 +4801,7 @@ meta.foundation-mq-topbar {
   height: 45px;
   line-height: 45px;
   position: relative;
-  background: #333333;
+  background: #ffffff;
   margin-bottom: 0;
 }
 /* line 129, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
@@ -4908,7 +4908,7 @@ meta.foundation-mq-topbar {
 }
 /* line 234, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar.expanded .title-area {
-  background: #333333;
+  background: #ffffff;
 }
 /* line 237, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar.expanded .toggle-topbar a {
@@ -4934,7 +4934,7 @@ meta.foundation-mq-topbar {
   width: 100%;
   height: auto;
   display: block;
-  background: #333333;
+  background: #ffffff;
   font-size: 16px;
   margin: 0;
 }
@@ -4956,7 +4956,7 @@ meta.foundation-mq-topbar {
   font-family: "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, Courier New, Courier New;
   font-size: 0.8125rem;
   font-weight: normal;
-  background: #333333;
+  background: #ffffff;
 }
 /* line 293, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a.button {
@@ -5088,7 +5088,7 @@ meta.foundation-mq-topbar {
 @media only screen and (min-width: 40.063em) {
   /* line 412, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar {
-    background: #333333;
+    background: #ffffff;
     *zoom: 1;
     overflow: visible;
   }
@@ -5122,7 +5122,7 @@ meta.foundation-mq-topbar {
   }
   /* line 429, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar.expanded {
-    background: #333333;
+    background: #ffffff;
   }
 
   /* line 432, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
@@ -5162,7 +5162,7 @@ meta.foundation-mq-topbar {
   .top-bar-section li a:not(.button) {
     padding: 0 15px;
     line-height: 45px;
-    background: #333333;
+    background: #ffffff;
   }
   /* line 464, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section li a:not(.button):hover {
@@ -5217,12 +5217,12 @@ meta.foundation-mq-topbar {
     line-height: 1;
     white-space: nowrap;
     padding: 12px 15px;
-    background: #333333;
+    background: #ffffff;
   }
   /* line 522, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section .dropdown li label {
     white-space: nowrap;
-    background: #333333;
+    background: #ffffff;
   }
   /* line 528, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section .dropdown li .dropdown {
@@ -5240,7 +5240,7 @@ meta.foundation-mq-topbar {
   }
   /* line 545, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
   .top-bar-section .has-form {
-    background: #333333;
+    background: #ffffff;
     padding: 0 15px;
     height: 45px;
   }
@@ -5288,7 +5288,7 @@ meta.foundation-mq-topbar {
   height: 100%;
   position: absolute;
   overflow-y: auto;
-  background: #333333;
+  background: #ffffff;
   z-index: 1001;
   box-sizing: content-box;
 }
@@ -5327,7 +5327,7 @@ section.left-small, section.right-small {
 
 /* line 273, ../bower_components/foundation/scss/foundation/components/_offcanvas.scss */
 nav.tab-bar {
-  background: #333333;
+  background: #ffffff;
   color: white;
   height: 2.8125rem;
   line-height: 2.8125rem;
