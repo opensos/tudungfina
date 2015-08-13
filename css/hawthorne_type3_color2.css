@@ -92,7 +92,7 @@ aside.blog-sidebar ul li a, aside.blog-sidebar ul li a:hover, aside.blog-sidebar
 
 /* line 71, ../scss/master/_blog.scss */
 article {
-  border-bottom: 1px solid #91b7c7;
+  border-bottom: 1px solid #333333;
   padding-bottom: 1.25em;
   margin-bottom: 2.5em;
 }
@@ -162,7 +162,7 @@ article .caption {
 
 /* line 128, ../scss/master/_blog.scss */
 .comments {
-  border-top: 1px solid #91b7c7;
+  border-top: 1px solid #333333;
   margin-top: 3em;
   padding-top: 3em;
   padding-bottom: 1em;
@@ -351,7 +351,7 @@ p a, li a, .thumbnail-caption a {
   -webkit-transition: color 0.2s ease-out;
   -moz-transition: color 0.2s ease-out;
   transition: color 0.2s ease-out;
-  border-bottom: 1px solid #91b7c7;
+  border-bottom: 1px solid #333333;
   padding-bottom: 1px;
 }
 
@@ -381,7 +381,7 @@ div.lined-list ul {
   letter-spacing: 0;
   text-transform: none;
   list-style-type: none;
-  border-bottom: 1px solid #91b7c7;
+  border-bottom: 1px solid #333333;
   padding-top: 0.8em;
   padding-bottom: 0.8em;
   margin-left: 0;
@@ -400,7 +400,7 @@ div.lined-list ul {
 
 /* line 122, ../scss/_custom.scss */
 .lined-list li:first-child {
-  border-top: 1px solid #91b7c7;
+  border-top: 1px solid #333333;
 }
 
 /* line 126, ../scss/_custom.scss */
@@ -432,7 +432,7 @@ ol li {
 
 /* line 150, ../scss/_custom.scss */
 .row blockquote {
-  border-left: 1px solid #91b7c7;
+  border-left: 1px solid #333333;
 }
 
 /* line 154, ../scss/_custom.scss */
@@ -590,8 +590,8 @@ div div header h2 a:hover, header h2 a:focus {
 
 /* line 291, ../scss/_custom.scss */
 nav {
-  border-top: 1px solid #91b7c7;
-  border-bottom: 1px solid #91b7c7;
+  border-top: 1px solid #333333;
+  border-bottom: 1px solid #333333;
   margin-bottom: 3em;
   background-color: #fbfdfe;
 }
@@ -767,7 +767,7 @@ Footer
 ==================================================================================================*/
 /* line 449, ../scss/_custom.scss */
 footer {
-  border-top: 1px solid #91b7c7;
+  border-top: 1px solid #333333;
   margin-top: 3em;
   padding-top: 4em;
   padding-bottom: 5em;
@@ -4422,7 +4422,7 @@ h6 {
 
 /* line 208, ../bower_components/foundation/scss/foundation/components/_type.scss */
 hr {
-  border: solid #91b7c7;
+  border: solid #333333;
   border-width: 1px 0 0;
   clear: both;
   margin: 1.25rem 0 1.1875rem;
