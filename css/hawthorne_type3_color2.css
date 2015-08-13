@@ -923,8 +923,9 @@ body {
 
 /* line 325, ../bower_components/foundation/scss/foundation/components/_global.scss */
 body {
-  background: #fbfdfe;
-  color: #333d41;
+  ;background: #fbfdfe;
+  background: #ffffff;
+  color: #000000;
   padding: 0;
   margin: 0;
   font-family: "sans-serif", "Playfair Display", "Helvetica Neue", "Helvetica", Helvetica, sans-serif, sans-serif;
