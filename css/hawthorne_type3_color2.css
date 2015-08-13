@@ -658,8 +658,9 @@ Project
   width: 100%;
   height: 100%;
   #background-color: rgba(91, 138, 160, 0.5);
-  background-color: rgba(192,192,192,0.5);
-}
+  #background-color: rgba(192,192,192,0.5);
+  background-color: rgba(255,182,193,0.5);
+} 
 
 /* line 358, ../scss/_custom.scss */
 .thumbnail-hover a {
