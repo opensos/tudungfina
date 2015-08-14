@@ -622,6 +622,8 @@ nav ul.inline-list-custom li {
 /* added by rar */
 nav ul.inline-list-custom a:hover {
 	text-decoration: underline;
+	line-height: 2;
+	
 }
 /* line 320, ../scss/_custom.scss */
 nav ul li a, nav ul li a:hover {
