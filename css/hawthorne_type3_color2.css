@@ -623,6 +623,7 @@ nav ul.inline-list-custom li {
 nav ul.inline-list-custom a:hover {
 	text-decoration: underline;
 	line-height: 2;
+	border-bottom: 3px solid
 	
 }
 /* line 320, ../scss/_custom.scss */
