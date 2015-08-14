@@ -622,6 +622,7 @@ nav ul.inline-list-custom li {
 /* line 320, ../scss/_custom.scss */
 nav ul li a, nav ul li a:hover {
   border: none !important;
+  text-decoration: underline;
 }
 
 /* line 324, ../scss/_custom.scss */
