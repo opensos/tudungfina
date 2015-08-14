@@ -5543,6 +5543,6 @@ ul.off-canvas-list li a {
 }
 
 /* custom by rar*/
-.ul-on-hover:hover {
+.ul-on-hover: hover {
   		text-decoration: underline;
 	}
