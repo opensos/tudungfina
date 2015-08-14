@@ -634,7 +634,7 @@ a.current {
 /* line 329, ../scss/_custom.scss */
 a.current:hover {
   color: #adb3b6;
-  text-decoration: underline;
+  
 }
 
 /*==================================================================================================
@@ -5541,3 +5541,8 @@ ul.off-canvas-list li a {
 .lt-ie10 .move-right > .inner-wrap {
   left: 250px;
 }
+
+/* custom by rar
+.ul-on-hover:hover {
+  		text-decoration: underline;
+	}
