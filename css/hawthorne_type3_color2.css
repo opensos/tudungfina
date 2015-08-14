@@ -619,6 +619,10 @@ nav ul.inline-list-custom li {
   padding-bottom: 0;
 }
 
+/* added by rar */
+nav ul.inline-list-custom a:hover {
+	text-decoration: underline;
+}
 /* line 320, ../scss/_custom.scss */
 nav ul li a, nav ul li a:hover {
   border: none !important;
@@ -5542,7 +5546,3 @@ ul.off-canvas-list li a {
   left: 250px;
 }
 
-/* custom by rar*/
-.ul-on-hover: hover {
-  		text-decoration: underline;
-	}
