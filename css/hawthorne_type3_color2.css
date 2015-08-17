@@ -4559,7 +4559,7 @@ dl dd {
 abbr,
 acronym {
   text-transform: uppercase;
-  font-size: 90%;
+  font-size: 100%;
   color: #333d41;
   border-bottom: 1px dotted #dddddd;
   cursor: help;
