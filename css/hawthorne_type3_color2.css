@@ -5561,6 +5561,7 @@ ul.off-canvas-list li a {
 	font-size: 2rem;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
+	border-color: #000;
 	border-bottom: 2px solid dashed;
 	
   }
