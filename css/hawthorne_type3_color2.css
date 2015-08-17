@@ -5554,10 +5554,12 @@ ul.off-canvas-list li a {
  .message-bg {
 	position: relative;
     width: 100%;
-	background: #d7d7d7;
+	background: #f1f1f1;
 	font-family: Arial;
 	font-size: 2rem;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
 	
   }
