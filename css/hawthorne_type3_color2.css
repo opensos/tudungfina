@@ -687,7 +687,7 @@ Project
 /* line 369, ../scss/_custom.scss */
 .thumbnail-caption {
   font-family: "Century Gothic", "Arial", "Open Sans";
-  font-weight: bold;
+  font-weight: normal;
   font-style: normal;
   font-size: 0.875rem;
   line-height: 1.5;
