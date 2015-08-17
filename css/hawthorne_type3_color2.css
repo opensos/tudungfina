@@ -807,13 +807,13 @@ footer li {
   padding-left: 1em;
   margin-right: 1em;
   #color: #4a585e;
-  color: #000000;
+  color: #333333;
   #background: #d7d7d7;
 }
 
 /* line 476, ../scss/_custom.scss */
 footer li a {
-  color: #4a585e;
+  color: #333333;
   -webkit-transition: color 0.2s ease-out;
   -moz-transition: color 0.2s ease-out;
   transition: color 0.2s ease-out;
@@ -833,7 +833,7 @@ footer div.social-icons i {
 
 /* line 491, ../scss/_custom.scss */
 footer div.social-icons a:hover i {
-  color: #5b8aa0;
+  color: #333333;
   -webkit-transition: color 0.2s ease-out;
   -moz-transition: color 0.2s ease-out;
   transition: color 0.2s ease-out;
