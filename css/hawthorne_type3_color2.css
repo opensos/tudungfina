@@ -621,7 +621,7 @@ nav ul.inline-list-custom li {
 
 /* added by rar */
 nav ul.inline-list-custom a:hover {
-	text-decoration: underline;
+	#text-decoration: underline;
 	line-height: 2;
 	border-bottom: 3px solid
 	
@@ -5576,4 +5576,6 @@ ul.off-canvas-list li a {
 	text-transform: uppercase;	
   }
 
-  
+  .price {
+	  
+  }
