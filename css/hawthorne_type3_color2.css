@@ -806,7 +806,8 @@ footer li {
   display: inline-block;
   padding-left: 1em;
   margin-right: 1em;
-  color: #4a585e;
+  #color: #4a585e;
+  color: #000000;
   #background: #d7d7d7;
 }
 
