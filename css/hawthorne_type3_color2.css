@@ -5551,6 +5551,7 @@ ul.off-canvas-list li a {
   left: 250px;
 }
 
+/* addin by rar */
  .message-bg {
 	position: relative;
     width: 100%;
@@ -5561,3 +5562,10 @@ ul.off-canvas-list li a {
 	padding-bottom: 1rem;
 	
   }
+  
+  .footer-bg {
+	position: relative;
+    width: 100%;
+	background: #f1f1f1;  
+  }
+  
