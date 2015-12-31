@@ -1,4 +1,16 @@
 @import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic);
+@font-face {
+	font-family:'AtlasTypewriterRegular-Regular';
+	src: url('http://opensos.github.io/assets/fonts/AtlasTypewriterRegular_gdi.eot');
+	src: url('http://opensos.github.io/assets/fonts/AtlasTypewriterRegular_gdi.eot?#iefix') format('embedded-opentype'),
+		url('http://opensos.github.io//assets/fonts/AtlasTypewriterRegular_gdi.woff') format('woff'),
+		url('http://opensos.github.io/assets/fonts/AtlasTypewriterRegular_gdi.ttf') format('truetype'),
+		url('http://opensos.github.io/assets/fonts/AtlasTypewriterRegular_gdi.svg#AtlasTypewriterRegular-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-2265;
+}
 /*==================================================================================================
 Foundation Variables
 ==================================================================================================*/
@@ -45,7 +57,7 @@ aside.blog-sidebar h5 {
 
 /* line 32, ../scss/master/_blog.scss */
 aside.blog-sidebar h5, .related-posts h5 {
-  font-family: "Century Gothic", "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Century Gothic", "Arial", "Open Sans";
   font-weight: bold;
   font-style: normal;
   #font-size: 1.125rem;
@@ -58,7 +70,7 @@ aside.blog-sidebar h5, .related-posts h5 {
 
 /* line 43, ../scss/master/_blog.scss */
 aside.blog-sidebar li, aside.blog-sidebar p {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -99,7 +111,7 @@ article {
 
 /* line 77, ../scss/master/_blog.scss */
 article h1, h1.archive-title {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: bold;
   font-style: normal;
   #font-size: 1.625rem;
@@ -111,7 +123,7 @@ article h1, h1.archive-title {
 
 /* line 87, ../scss/master/_blog.scss */
 article h6.date {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: italic;
   #font-size: 0.875rem;
@@ -124,7 +136,7 @@ article h6.date {
 
 /* line 98, ../scss/master/_blog.scss */
 article p, article li {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   #font-size: 0.875rem;
   font-size: 0.5rem;
   line-height: 1.6;
@@ -139,7 +151,7 @@ article p a {
 
 /* line 108, ../scss/master/_blog.scss */
 article p.byline {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: italic;
   #font-size: 0.875rem;
@@ -170,7 +182,7 @@ article .caption {
 
 /* line 135, ../scss/master/_blog.scss */
 div div div article h2 {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: bold;
   font-style: normal;
   #font-size: 1.3125rem;
@@ -208,7 +220,7 @@ div div div article h3 {
 .related-posts ul li {
   margin-left: 0;
   line-height: 1.8;
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -251,7 +263,7 @@ h1.archive-title {
 
 /* line 199, ../scss/master/_blog.scss */
 .archive-item h2 {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: bold;
   font-style: normal;
   font-size: 1rem;
@@ -263,7 +275,7 @@ h1.archive-title {
 
 /* line 210, ../scss/master/_blog.scss */
 .archive-item h6.date {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: italic;
   font-size: 0.875rem;
@@ -281,7 +293,7 @@ h1.archive-title {
 
 /* line 226, ../scss/master/_blog.scss */
 .pagination-custom p span {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: normal;
   font-size: 1rem;
@@ -373,7 +385,7 @@ div.lined-list ul {
 
 /* line 97, ../scss/_custom.scss */
 .lined-list li {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: normal;
   font-size: inherit;
@@ -389,7 +401,7 @@ div.lined-list ul {
 
 /* line 112, ../scss/_custom.scss */
 .lined-list li strong {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: bold;
   font-style: normal;
   font-size: inherit;
@@ -457,7 +469,7 @@ div h1, div h2, div h3, div h4, div h5, div h6 {
 
 /* line 171, ../scss/_custom.scss */
 div div h2 {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: italic;
   font-size: 1.5rem;
@@ -468,7 +480,7 @@ div div h2 {
 
 /* line 181, ../scss/_custom.scss */
 div div h3 {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: italic;
   font-size: 1.125rem;
@@ -539,7 +551,7 @@ header div.logo {
 
 /* line 245, ../scss/_custom.scss */
 div div header h1 {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: bold;
   font-style: normal;
   font-size: 1.875rem;
@@ -559,7 +571,7 @@ div div header h1 a {
 
 /* line 263, ../scss/_custom.scss */
 div div header h2 {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: normal;
   font-size: 0.75rem;
@@ -606,7 +618,7 @@ nav ul.inline-list-custom {
 
 /* line 305, ../scss/_custom.scss */
 nav ul.inline-list-custom li {
-  font-family: "arial", "Century Gothic", "Arial", "Open Sans";
+  font-family: "arial", "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: normal;
   font-size: 1.5rem;
@@ -686,7 +698,7 @@ Project
 
 /* line 369, ../scss/_custom.scss */
 .thumbnail-caption {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: bold;
   font-style: normal;
   font-size: 0.875rem;
@@ -729,7 +741,7 @@ hr.project-detail-hr {
 /* line 403, ../scss/_custom.scss */
 .project-img h6 {
   padding-top: 1em;
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: bold;
   font-style: normal;
   font-size: 0.875rem;
@@ -796,7 +808,7 @@ footer ul {
 
 /* line 462, ../scss/_custom.scss */
 footer li {
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: normal;
   font-size: 0.875rem;
@@ -943,7 +955,7 @@ body {
   color: #000000;
   padding: 0;
   margin: 0;
-  font-family: "Century Gothic", "Arial", "Open Sans";
+  font-family: "AtlasTypewriterRegular-Regular", "Arial", "Open Sans";
   font-weight: normal;
   font-style: normal;
   line-height: 1;
@@ -5568,7 +5580,7 @@ ul.off-canvas-list li a {
   .motto {
 	position: relative;
     width: 100%;
-	font-family: Century Gothic, Arial;
+	font-family: AtlasTypewriterRegular-Regular, Arial;
 	font-size: 1rem;
 	color: #d7d7d7;
 	padding-top: 1rem;
